@@ -16,31 +16,13 @@
   <li>Database Integration Complete</li>
 </ul>
 
+<p <a href="https://github.com/thulasiram1380/thulasiram-p.git">GitHub Repository Link</a></p>
+
 <p>
 This project delivers a complete Java Spring Boot backend for e-commerce operations with product management, category organization, shopping carts, cart items, image handling, and centralized price calculation logic.
 </p>
 
-<h2>Documentation</h2>
-<ul>
-  <li><strong>Project Overview:</strong> 
-    <a href="README.md" target="_blank">README.md (root)</a>
-  </li>
-  <li><strong>API Documentation:</strong> 
-    <a href="api-documentation.md" target="_blank">api-documentation.md</a>
-  </li>
-  <li><strong>Database Schema:</strong> 
-    <a href="database-schema.md" target="_blank">database-schema.md</a>
-  </li>
-  <li><strong>Setup Instructions:</strong> 
-    <a href="setup-instructions.md" target="_blank">setup-instructions.md</a>
-  </li>
-  <li><strong>Run & Test:</strong> 
-    <a href="run-commands.md" target="_blank">run-commands.md</a>
-  </li>
-</ul>
 
-<h2>System Architecture (High Level)</h2>
-<img src="architecture-diagram.png" alt="Architecture Diagram" width="100%">
 
 <h2>Project Overview</h2>
 <p>The application provides complete backend functionality for e-commerce:</p>
