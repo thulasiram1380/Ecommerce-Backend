@@ -16,7 +16,7 @@
   <li>Database Integration Complete</li>
 </ul>
 
-<p <a href="https://github.com/thulasiram1380/thulasiram-p.git">GitHub Repository Link</a></p>
+<p> <a href="https://github.com/thulasiram1380/thulasiram-p.git">GitHub Repository Link</a></p>
 
 <p>
 This project delivers a complete Java Spring Boot backend for e-commerce operations with product management, category organization, shopping carts, cart items, image handling, and centralized price calculation logic.
