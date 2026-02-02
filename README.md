@@ -22,7 +22,6 @@ This project delivers a complete Java Spring Boot backend for e-commerce operati
 </p>
 
 
-
 <h2>Project Overview</h2>
 <p>The application provides complete backend functionality for e-commerce:</p>
 <ul>
@@ -45,6 +44,9 @@ This project delivers a complete Java Spring Boot backend for e-commerce operati
   <li>Production-ready REST API design</li>
   <li>Maven build automation</li>
 </ul>
+
+<h2>🧩 System Architecture (High Level)</h2>
+<img src="system.png" alt="ECommerce Backend Architecture Diagram" width="100%">
 
 <h2>Core Features - ALL IMPLEMENTED</h2>
 
