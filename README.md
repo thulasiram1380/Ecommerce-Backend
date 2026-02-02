@@ -156,7 +156,7 @@ All core e-commerce backend features fully implemented. Production-ready REST AP
 
 <hr>
 <p style="text-align: center;">
-  <strong>Built with ❤️ by Thulasiram</strong>
+  <strong>Built by Thulasiram</strong>
 </p>
 
 </body>
