@@ -17,13 +17,13 @@ Production-ready backend system for managing products, categories, carts, cart i
 
 <h2>📜 Table of Contents</h2>
 <ul>
-  <li><a href="project-overview">📌 Project Overview</a></li>
-  <li><a href="features">✨ Features</a></li>
-  <li><a href="architecture">🏗️ Architecture</a></li>
-  <li><a href="api-endpoints">🔗 API Endpoints</a></li>
-  <li><a href="database">🗄️ Database Design</a></li>
-  <li><a href="configuration">⚙️ Configuration</a></li>
-  <li><a href="technologies">🛠️ Technologies Used</a></li>
+  <li><a href="#project-overview">📌 Project Overview</a></li>
+  <li><a href="#features">✨ Features</a></li>
+  <li><a href="#architecture">🏗️ Architecture</a></li>
+  <li><a href="#api-endpoints">🔗 API Endpoints</a></li>
+  <li><a href="#database">🗄️ Database Design</a></li>
+  <li><a href="#configuration">⚙️ Configuration</a></li>
+  <li><a href="#technologies">🛠️ Technologies Used</a></li>
 </ul>
 
 <hr>
